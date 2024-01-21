@@ -1,1 +1,3 @@
-console.log("Hello via Bun!");
+import * as schema from './schema'
+
+export default schema
