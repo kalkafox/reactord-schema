@@ -1,0 +1,17 @@
+{
+  "name": "reactord-schema",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "drizzle-kit": "^0.20.13"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "crypto-random-string": "^5.0.0",
+    "drizzle-orm": "^0.29.3",
+    "mysql2": "^3.7.1"
+  }
+}
