@@ -1,4 +1,4 @@
-import { BiggerReactorsControlRodData } from './reactord.d'
+import { BiggerReactorsControlRodData } from './reactord'
 import * as schema from '../schema'
 
 export type BiggerReactorsControlRodData = {
