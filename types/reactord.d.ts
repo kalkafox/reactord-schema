@@ -23,4 +23,5 @@ export type Req = {
   id?: number | string | null
   token?: string | null
   type?: 'BiggerReactors_Reactor' | 'mekanism-reactor'
+  dc: boolean
 }

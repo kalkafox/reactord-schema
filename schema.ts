@@ -8,7 +8,7 @@ import {
   mysqlSchema,
   varchar,
 } from 'drizzle-orm/mysql-core'
-import type { BiggerReactorsControlRodDataBank } from './types/reactord'
+import { type BiggerReactorsControlRodDataBank } from './types/reactord'
 
 export const reactordSchema = mysqlSchema('reactord')
 
